@@ -1,0 +1,1 @@
+add_executable(test try_1_matrix.c)
